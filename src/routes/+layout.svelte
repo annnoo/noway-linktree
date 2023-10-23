@@ -5,7 +5,8 @@
 </script>
 
 <main class="min-h-screen flex items-center justify-center bg-noway-dark">
-  <svg width="100%" height="100%" class="absolute">
+  <div class="absolute opacity-60 w-full h-full z-0">
+  <svg width="100%" height="100%" >
     <defs>
       <pattern id="polka-dots" x="0" y="0" width="60" height="60" patternUnits="userSpaceOnUse">
 <path fill="#00000040" d="
@@ -43,7 +44,16 @@
 
     <rect x="0" y="0" width="100%" height="100%" fill="url(#polka-dots)" />
   </svg>
-	<div>
+</div>
+	<div class="z-10">
+
+
+        <div class="m-4 md:m-6">
+          <h1 class="text-8xl flex flex-col gap-8 text-center text-noway-light">
+            <div  style="text-shadow: black 1px 1px 8px; font-family: Calgary;">NoWay4U </div>
+          </h1>
+        </div>
+
 		<slot />
 	</div>
   <!-- PAttern overlay-->

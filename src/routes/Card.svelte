@@ -30,7 +30,9 @@
         {#if position == 'left'}
 					<img class="absolute -left-6 sm:w-24 sm:h-24 w-16 h-16 rounded-full shadow-lg" src={imageName} />
 					{/if}
-				<div class="flex flex-col py-5 flex flex-row w-full justify-center items-center">
+				<div class="flex flex-col py-5 flex flex-row w-full justify-center items-center"
+          style=""
+        >
 					<strong
 						class="text-2xl sm:text-4xl font-calgary text-noway-dark mt-2"
 						style="font-family: Calgary;">{text}</strong
