@@ -1,15 +1,17 @@
 <script lang="ts">
 	import '$lib/globals.css';
 	export const preprocess = true;
-  export const prerender = true;
+	export const prerender = true;
 </script>
 
 <main class="min-h-screen flex items-center justify-center bg-noway-dark">
-  <div class="absolute opacity-60 w-full h-full z-0">
-  <svg width="100%" height="100%" >
-    <defs>
-      <pattern id="polka-dots" x="0" y="0" width="60" height="60" patternUnits="userSpaceOnUse">
-<path fill="#00000040" d="
+	<div class="absolute opacity-60 w-full h-full z-0">
+		<svg width="100%" height="100%">
+			<defs>
+				<pattern id="polka-dots" x="0" y="0" width="60" height="60" patternUnits="userSpaceOnUse">
+					<path
+						fill="#00000040"
+						d="
   M 11.19 0.00
   L 14.14 0.00
   Q 17.44 1.11 17.88 4.07
@@ -37,25 +39,38 @@
   A 1.00 0.99 29.9 0 1 7.10 3.87
   Q 7.80 0.85 11.19 0.00
   Z"
-/>
+					/>
+				</pattern>
+			</defs>
 
-      </pattern>
-    </defs>
-
-    <rect x="0" y="0" width="100%" height="100%" fill="url(#polka-dots)" />
-  </svg>
-</div>
+			<rect x="0" y="0" width="100%" height="100%" fill="url(#polka-dots)" />
+		</svg>
+	</div>
 	<div class="z-10">
-
-
-        <div class="m-4 md:m-6">
-          <h1 class="text-8xl flex flex-col gap-8 text-center text-noway-light">
-            <div  style="text-shadow: black 1px 1px 8px; font-family: Calgary;">NoWay4U </div>
-          </h1>
-        </div>
+		<div class="m-4 md:m-6">
+			<a href="/">
+				<h1 class="text-8xl flex flex-col gap-8 text-center text-noway-light">
+					<div style="text-shadow: black 1px 1px 8px; font-family: Calgary;">NoWay4U</div>
+				</h1>
+			</a>
+		</div>
 
 		<slot />
 	</div>
-  <!-- PAttern overlay-->
-
+	<!-- PAttern overlay-->
 </main>
+<footer class="text-center bg-noway-dark text-noway-light">
+	<div class="flex flex-col gap-4">
+		<div class="flex flex-col gap-2 text-xs">
+			<div class="flwx flex-row justify-center">
+				<a href="https://www.twitch.tv/noway4u_sir"><span>Imprint</span></a>
+				<a href="/privacy"><span>Privacy</span></a>
+			</div>
+
+			<div class="text-[12px]">
+				Made with <span class="text-red-500">❤</span> by
+				<a href="https://twitter.com/annnoo96"> Annnoo </a>
+			</div>
+		</div>
+	</div>
+</footer>
