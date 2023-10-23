@@ -1,0 +1,14 @@
+[
+  {
+    "icon": "clown",
+    "text": "Merch",
+    "link": "https://www.redbubble.com/people/merchbot/shop?asc=u",
+    "position": "left"
+  },
+  {
+    "icon": "fiesta",
+    "text": "Bingo",
+    "link": "https://www.redbubble.com/people/merchbot/shop?asc=u",
+    "position": "right"
+  }
+]
