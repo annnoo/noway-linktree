@@ -2,13 +2,19 @@
   {
     "icon": "clown",
     "text": "Merch",
-    "link": "https://www.redbubble.com/people/merchbot/shop?asc=u",
+    "link": "https://www.noway4u.shop",
     "position": "left"
   },
   {
     "icon": "fiesta",
     "text": "Bingo",
-    "link": "https://www.redbubble.com/people/merchbot/shop?asc=u",
+    "link": "https://bingo.noway.gg",
     "position": "right"
-  }
+  },
+  {
+    "icon": "lick",
+    "text": "Twitch",
+    "link": "https://twitch.tv/noway4u_sir",
+    "position": "left"
+  },
 ]
