@@ -16,5 +16,11 @@
     "text": "Twitch",
     "link": "https://twitch.tv/noway4u_sir",
     "position": "left"
-  }
+  },
+    {
+    "icon": "hug",
+    "text": "Adventskalender",
+    "link": "https://adventskalender.noway.gg/",
+    "position": "right"
+  },
 ]
