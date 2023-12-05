@@ -102,7 +102,10 @@
 	</p>
 	<h3>Hinweis zur verantwortlichen Stelle</h3>
 	<p>Die verantwortliche Stelle f&uuml;r die Datenverarbeitung auf dieser Website ist:</p>
-	<p>Gamesmania Online GmbH Waldstrasse 16 63533 Mainhausen</p>
+	<p>INSIGHT GG GmbH
+Müllerstraße 12A
+86153 Augsburg
+Deutschland</p>
 
     <p>Anno Kerp, E-Mail: admin@annnoo.me</p>
 	<p>
