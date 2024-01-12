@@ -6,21 +6,10 @@
     "position": "left"
   },
   {
-    "icon": "fiesta",
-    "text": "Korea-Checklist",
-    "link": "https://korea.noway.gg",
-    "position": "right"
-  },
-  {
     "icon": "lick",
     "text": "Twitch",
     "link": "https://twitch.tv/noway4u_sir",
     "position": "left"
-  },
-    {
-    "icon": "hug",
-    "text": "Adventskalender",
-    "link": "https://adventskalender.noway.gg/",
-    "position": "right"
   }
+
 ]
