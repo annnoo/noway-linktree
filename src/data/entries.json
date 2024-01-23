@@ -9,6 +9,12 @@
     "icon": "lick",
     "text": "Twitch",
     "link": "https://twitch.tv/noway4u_sir",
+    "position": "right"
+  },
+  {
+    "icon": "love",
+    "text": "Socials",
+    "link": "https://linktr.ee/noway4u",
     "position": "left"
   }
 
