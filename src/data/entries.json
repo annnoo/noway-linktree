@@ -12,10 +12,16 @@
     "position": "right"
   },
   {
+    "icon": "carry1",
+    "text": "Tyler 0.6",
+    "link": "https://tyler.noway.gg/",
+    "position": "left"
+  },
+  {
     "icon": "love",
     "text": "Socials",
     "link": "https://linktr.ee/noway4u",
-    "position": "left"
+    "position": "right"
   }
 
 ]
