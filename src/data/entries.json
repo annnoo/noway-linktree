@@ -12,16 +12,22 @@
     "position": "right"
   },
   {
+    "icon": "carry1",
+    "text": "Worlds 2024",
+    "link": "https://lol.noway.gg/",
+    "position": "left"
+  },
+  {
     "icon": "carry2",
     "text": "Noway Around the World!",
     "link": "https://lol.noway.gg/",
-    "position": "left"
+    "position": "right"
   },
   {
     "icon": "love",
     "text": "Socials",
     "link": "https://linktr.ee/noway4u",
-    "position": "right"
+    "position": "left"
   }
 
 ]
