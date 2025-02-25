@@ -63,7 +63,7 @@
 	<div class="flex flex-col gap-4">
 		<div class="flex flex-col gap-2 text-xs">
 			<div class="flwx flex-row justify-center">
-				<a href="https://www.twitch.tv/noway4u_sir"><span>Imprint</span></a>
+				<a href="https://www.ins.gg/impressum/"><span>Imprint</span></a>
 				<a href="/privacy"><span>Privacy</span></a>
 			</div>
 
