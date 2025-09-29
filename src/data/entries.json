@@ -6,10 +6,10 @@
     "position": "left"
   },
   {
-    "icon": "lick",
-    "text": "Twitch",
-    "link": "https://twitch.tv/noway4u_sir",
-    "position": "right"
+    "icon": "fiesta",
+    "text": "Turkei - Serverreise",
+    "link": "https://turkey.sola.rip/",
+    "position": "left"
   },
   {
     "icon": "carry2",
@@ -22,6 +22,11 @@
     "text": "Socials",
     "link": "https://linktr.ee/noway4u",
     "position": "left"
+  },
+  {
+    "icon": "lick",
+    "text": "Twitch",
+    "link": "https://twitch.tv/noway4u_sir",
+    "position": "right"
   }
-
 ]
