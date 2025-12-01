@@ -1,7 +1,12 @@
+@import "tailwindcss";
+@plugin "daisyui";
 
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@theme {
+  --color-noway-dark: #40514f;
+  --color-noway-dark-darker: #303e3f;
+  --color-noway-light: #e6faf2;
+  --color-noway-default: #a2e0c9;
+}
 
 @font-face {
     font-family: 'Calgary';
