@@ -1,16 +1,17 @@
 [
+    {
+    "icon": "aww",
+    "text": "Adventskalender",
+    "link": "https://adventskalender.noway.gg/",
+    "position": "right"
+  },
   {
     "icon": "clown",
     "text": "Merch",
     "link": "https://www.noway4u.shop",
     "position": "left"
   },
-  {
-    "icon": "fiesta",
-    "text": "Turkei - Serverreise",
-    "link": "https://turkey.sola.rip/",
-    "position": "left"
-  },
+
   {
     "icon": "carry2",
     "text": "Noway Around the World!",
