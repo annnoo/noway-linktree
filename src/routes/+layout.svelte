@@ -57,7 +57,6 @@
 
 		<slot />
 	</div>
-	<div class="text-2xl m-32"> HLELJKFDSKJ</div>
 	<!-- PAttern overlay-->
 </main>
 <footer class="text-center bg-noway-dark text-noway-light">
@@ -75,3 +74,4 @@
 		</div>
 	</div>
 </footer>
+vite-plugin-svelte
