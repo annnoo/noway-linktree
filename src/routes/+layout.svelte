@@ -74,4 +74,3 @@
 		</div>
 	</div>
 </footer>
-vite-plugin-svelte
