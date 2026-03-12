@@ -1,4 +1,11 @@
 [
+
+  {
+    "icon": "carry2",
+    "text": "Merch",
+    "link": "https://mayhem.noway.gg",
+    "position": "right"
+  },
   {
     "icon": "clown",
     "text": "Merch",
@@ -7,7 +14,7 @@
   },
 
   {
-    "icon": "carry2",
+    "icon": "potato",
     "text": "Noway Around the World!",
     "link": "https://lol.noway.gg/",
     "position": "right"
