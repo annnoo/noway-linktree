@@ -1,5 +1,11 @@
 [
   {
+    "icon": "aww",
+    "text": "Nuzlocke Challenge",
+    "link": "https://nuzlocke.noway.gg/",
+    "position": "right"
+  },
+  {
     "icon": "clown",
     "text": "Merch",
     "link": "https://www.noway4u.shop",
