@@ -12,6 +12,12 @@
     "position": "right"
   },
   {
+    "icon": "royal",
+    "text": "Noway vs the Worlds",
+    "link": "https://lol.noway.gg/worlds2026",
+    "position": "left"
+  },
+  {
     "icon": "love",
     "text": "Socials",
     "link": "https://linktr.ee/noway4u",
